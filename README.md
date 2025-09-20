@@ -4,11 +4,6 @@
 - Id : 2301671101
 - Video link:https://drive.google.com/file/d/1MScZIvKJ1475QgUoUUcsVacOpHGfQkK8/view?usp=sharing
 
-## Architecture
-
-![System Architecture](https://drive.google.com/u/0/drive-viewer/AKGpihawZ0ag2zw-csUEnTk5AJMoZaCCoBR8muB2ssfwgRsKGv10C6Xyb9m9ga3yP7jqYcVs-kai5M3PAS4qbfU70U1CyHfpTVNRVxg=s1600-rw-v1)
-
-
 This repository contains four projects:
 
 - course-service (Spring Boot + MySQL)

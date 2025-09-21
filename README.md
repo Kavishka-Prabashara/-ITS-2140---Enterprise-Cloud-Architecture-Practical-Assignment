@@ -1,7 +1,8 @@
 # Cloud Enabled Deployment In Action with AWS
 
 **Name:** Kavishka Prabashara Wijerathna  
-**ID:** 2301671101  
+**ID:** 2301671101
+**Email:** 2301671101  
 **Video:** [Watch Here](https://drive.google.com/file/d/1MScZIvKJ1475QgUoUUcsVacOpHGfQkK8/view?usp=sharing)
 
 This repository contains four projects:
